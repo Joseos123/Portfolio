@@ -1,19 +1,5 @@
-# Nuxt.js Example
+# joshuatsao.me
+![joseoscom](https://socialify.git.ci/Joseos123/portfolio/image?description=1&descriptionEditable=My%20actual%20professional%20site%20to%20be%20used%20for%20professional%20things&font=KoHo&language=1&pattern=Circuit%20Board&theme=Dark)
 
-This directory is a brief example of a [Nuxt.js](https://nuxtjs.org) app that can be deployed with Vercel and zero configuration.
-
-## Deploy Your Own
-
-Deploy your own Nuxt.js project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/nuxtjs&template=nuxtjs)
-
-_Live Example: https://nuxtjs.now-examples.vercel.app/_
-
-### How We Created This Example
-
-To get started with Nuxt.js deployed with Vercel, you can use the [Create-Nuxt-App CLI](https://www.npmjs.com/package/create-nuxt-app) to initialize the project:
-
-```shell
-$ npx create-nuxt-app my-app
-```
+<h3>My portfolio + resume site, made with Nuxt.js (Vue)</h3>
+<h4>No templates used. Hosted with vercel. Ripe for neglect and procrasrination 👍👍👍👌👌👌</h4>
