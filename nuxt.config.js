@@ -31,7 +31,9 @@ export default {
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
   ],
-
+  vite: {
+    build: true
+  }
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
   ],
