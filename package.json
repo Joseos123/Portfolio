@@ -1,22 +1,30 @@
 {
-  "name": "nuxtjs",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "My astonishing Nuxt App",
-  "author": "msweeneydev",
+  "description": "Actual Professional-ish site",
+  "author": "Joshua Tsao",
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt generate",
-    "start": "nuxt start"
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
   },
   "dependencies": {
-    "core-js": "^3.15.0",
+    "core-js": "^3.15.1",
     "nuxt": "^2.15.7"
   },
   "devDependencies": {
+    "@nuxt/types": "^2.15.7",
+    "@nuxt/typescript-build": "^2.1.0",
+    "@nuxtjs/tailwindcss": "^4.2.0",
+    "eslint-config-prettier": "^8.3.0",
+    "nuxt-vite": "^0.2.4",
+    "postcss": "^8.3.5",
+    "prettier": "^2.3.2",
     "fibers": "^5.0.0",
     "nuxt-vite": "^0.2.4",
     "sass": "^1.39.0",
-    "sass-loader": "^10.2.0"
+    "sass-loader": "^10.2.0",
   }
 }
