@@ -23,7 +23,6 @@
     "postcss": "^8.3.5",
     "prettier": "^2.3.2",
     "fibers": "^5.0.0",
-    "nuxt-vite": "^0.2.4",
     "sass": "^1.39.0",
     "sass-loader": "^12.1.0"
   }
