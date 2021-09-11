@@ -1,5 +1,7 @@
 <template>
+  <div>
     <h1>HELLOOOOOOOOOOOOO</h1>
+  </div>
 </template>
 
 <style scoped>
