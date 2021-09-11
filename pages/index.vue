@@ -1,6 +1,8 @@
 <template>
-  <Header/>
-  <First/>
-  <Second/>
-  <Footer/>
+  <div>
+    <Header />
+    <First />
+    <Second />
+    <Footer />
+  </div>
 </template>
